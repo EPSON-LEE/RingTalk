@@ -9,5 +9,5 @@
 2.[移动端WEB开发（一）](./Web/移动端WEB开发（一）.png)  
 
 - JavaScript  
-1.[JavaScript-快速入门](./JavaScript/JavaScript-01快速入门.png)  
-2.[JavaScript-快速入门](./JavaScript/JavaScript-02函数.png)
+1.[JavaScript-01快速入门](./JavaScript/JavaScript-01快速入门.png)  
+2.[JavaScript-02函数](./JavaScript/JavaScript-02函数.png)
