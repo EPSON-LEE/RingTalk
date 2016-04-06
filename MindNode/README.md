@@ -10,4 +10,5 @@
 
 - JavaScript  
 1.[JavaScript-01快速入门](./JavaScript/JavaScript-01快速入门.png)  
-2.[JavaScript-02函数](./JavaScript/JavaScript-02函数.png)
+2.[JavaScript-02函数](./JavaScript/JavaScript-02函数.png)  
+3.[JavaScript-03标准对象](./JavaScript/JavaScript-03标准对象.png)
