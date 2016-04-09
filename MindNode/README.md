@@ -15,4 +15,5 @@
 4.[JavaScript-04面向对象编程](./JavaScript/JavaScript-04面向对象编程.png)  
 5.[JavaScript-05浏览器](./JavaScript/JavaScript-05浏览器.png)  
 6.[JavaScript-06JQuery](./JavaScript/JavaScript-06JQuery.png)  
-7.[JavaScript-07underscore](./JavaScript/JavaScript-07underscore.png)
+7.[JavaScript-07underscore](./JavaScript/JavaScript-07underscore.png)  
+8.[JavaScript-08Node.js](./JavaScript/JavaScript-08Node.js.png)
