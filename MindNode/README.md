@@ -17,3 +17,6 @@
 6.[JavaScript-06JQuery](./JavaScript/JavaScript-06JQuery.png)  
 7.[JavaScript-07underscore](./JavaScript/JavaScript-07underscore.png)  
 8.[JavaScript-08Node.js](./JavaScript/JavaScript-08Node.js.png)
+
+- Python  
+1.[Python-01Python基础](./Python/Python-01Python基础.png)

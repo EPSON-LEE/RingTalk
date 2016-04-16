@@ -9,4 +9,8 @@
 进入「MindNode文件夹」查看具体具体内容。  
 - Tools类  
 - Web类  
-- JavaScript类
+- JavaScript类  
+- Python类
+
+####文章
+
