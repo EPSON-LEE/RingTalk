@@ -25,27 +25,41 @@ p{
   </div>
   <form>
   <!--当点击相应按钮，执行相应操作，为按钮添加相应事件-->
-    <input type="button" value="改变颜色" >  
-    <input type="button" value="改变宽高" >
-    <input type="button" value="隐藏内容" >
-    <input type="button" value="显示内容" >
-    <input type="button" value="取消设置" >
+    <input type="button" value="改变颜色" onclick="changecolor()">  
+    <input type="button" value="改变宽高" onclick="changewh()">
+    <input type="button" value="隐藏内容" onclick="hidecontent()">
+    <input type="button" value="显示内容" onclick="showcontent()">
+    <input type="button" value="取消设置" onclick="txtreset()">
   </form>
   <script type="text/javascript">
 //定义"改变颜色"的函数
-
-
+function changecolor(){
+  var txtcolor = document.getElementById('txt')
+  txtcolor.style.color = "red";
+}
 //定义"改变宽高"的函数
-
-
+function changewh(){
+  var txtwh = document.getElementById("txt")
+  txtwh.style.width = "500px";
+  txtwh.style.height = "300px";
+}
 //定义"隐藏内容"的函数
-
-
+function hidecontent(){
+  var txthide = document.getElementById("txt")
+  txthide.style.display = "none";
+}
 //定义"显示内容"的函数
-
-
+function showcontent(){
+  var txtshow = document.getElementById("txt")
+  txtshow.style.display = "block";
+}
 //定义"取消设置"的函数
-
+function txtreset(){
+  var hint = confirm("是否要重置设置?")
+  if (hint == true) {
+    txt.removeAttribute("style");
+  }
+}
 
 
   </script>
