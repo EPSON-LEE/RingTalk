@@ -1,0 +1,3803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.900, 0.900, 0.900, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{0, 0}</string>
+				<key>nodeID</key>
+				<string>936394D1-50EF-4C4D-B006-82AA3E2DE03E</string>
+				<key>strokeColor</key>
+				<string>{0.100, 0.100, 0.100, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, -2333}</string>
+						<key>nodeID</key>
+						<string>1475DC3D-08BA-4637-8CEB-FF763EB3B89D</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{791, -2353}</string>
+								<key>nodeID</key>
+								<string>2DA0BBB9-6DB3-48FD-A10E-74C6FFC4627E</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{1333, -2353}</string>
+										<key>nodeID</key>
+										<string>3C8A0135-B780-438B-AD65-2117046D0743</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;我们采用方法二，选择的第三方库就是underscore。&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'ce\'d2\'c3\'c7\'b2\'c9\'d3\'c3\'b7\'bd\'b7\'a8\'b6\'fe\'a3\'ac\'d1\'a1\'d4\'f1\'b5\'c4\'b5\'da\'c8\'fd\'b7\'bd\'bf\'e2\'be\'cd\'ca\'c7underscore\'a1\'a3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>480</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;方法一，自己把这些方法添加到Array.prototype中，然后给Object.prototype也加上mapObject()等类似的方法。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;方法二，直接找一个成熟可靠的第三方开源库，使用统一的函数来实现map()、filter()这些操作。&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b7\'bd\'b7\'a8\'d2\'bb\'a3\'ac\'d7\'d4\'bc\'ba\'b0\'d1\'d5\'e2\'d0\'a9\'b7\'bd\'b7\'a8\'cc\'ed\'bc\'d3\'b5\'bdArray.prototype\'d6\'d0\'a3\'ac\'c8\'bb\'ba\'f3\'b8\'f8Object.prototype\'d2\'b2\'bc\'d3\'c9\'cfmapObject()\'b5\'c8\'c0\'e0\'cb\'c6\'b5\'c4\'b7\'bd\'b7\'a8\'a1\'a3\
+\
+\'b7\'bd\'b7\'a8\'b6\'fe\'a3\'ac\'d6\'b1\'bd\'d3\'d5\'d2\'d2\'bb\'b8\'f6\'b3\'c9\'ca\'ec\'bf\'c9\'bf\'bf\'b5\'c4\'b5\'da\'c8\'fd\'b7\'bd\'bf\'aa\'d4\'b4\'bf\'e2\'a3\'ac\'ca\'b9\'d3\'c3\'cd\'b3\'d2\'bb\'b5\'c4\'ba\'af\'ca\'fd\'c0\'b4\'ca\'b5\'cf\'d6map()\'a1\'a2filter()\'d5\'e2\'d0\'a9\'b2\'d9\'d7\'f7\'a1\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>473</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;JavaScript是函数式编程语言，支持高阶函数和闭包。函数式编程非常强大。现在问题来了，Array有map()和filter()方法，可是Object没有这些方法。此外，低版本的浏览器例如IE6～8也没有这些方法，怎么办？&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>0</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 JavaScript\'ca\'c7\'ba\'af\'ca\'fd\'ca\'bd\'b1\'e0\'b3\'cc\'d3\'ef\'d1\'d4\'a3\'ac\'d6\'a7\'b3\'d6\'b8\'df\'bd\'d7\'ba\'af\'ca\'fd\'ba\'cd\'b1\'d5\'b0\'fc\'a1\'a3\'ba\'af\'ca\'fd\'ca\'bd\'b1\'e0\'b3\'cc\'b7\'c7\'b3\'a3\'c7\'bf\'b4\'f3\'a1\'a3\'cf\'d6\'d4\'da\'ce\'ca\'cc\'e2\'c0\'b4\'c1\'cb\'a3\'acArray\'d3\'d0map()\'ba\'cdfilter()\'b7\'bd\'b7\'a8\'a3\'ac\'bf\'c9\'ca\'c7Object\'c3\'bb\'d3\'d0\'d5\'e2\'d0\'a9\'b7\'bd\'b7\'a8\'a1\'a3\'b4\'cb\'cd\'e2\'a3\'ac\'b5\'cd\'b0\'e6\'b1\'be\'b5\'c4\'e4\'af\'c0\'c0\'c6\'f7\'c0\'fd\'c8\'e7IE6\'a1\'ab8\'d2\'b2\'c3\'bb\'d3\'d0\'d5\'e2\'d0\'a9\'b7\'bd\'b7\'a8\'a3\'ac\'d4\'f5\'c3\'b4\'b0\'ec\'a3\'bf}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, -2237}</string>
+						<key>nodeID</key>
+						<string>A74BFC68-1B1E-4131-94BA-05B80F8CF9B4</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{736, -2237}</string>
+								<key>nodeID</key>
+								<string>1783F841-B6CB-4CD3-A548-9985A9DE8CD2</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>516</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;jQuery在加载时，会把自身绑定到唯一的全局变量$上，underscore与其类似，会把自身绑定到唯一的全局变量_上，这也是为啥它的名字叫underscore的原因。&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 jQuery\'d4\'da\'bc\'d3\'d4\'d8\'ca\'b1\'a3\'ac\'bb\'e1\'b0\'d1\'d7\'d4\'c9\'ed\'b0\'f3\'b6\'a8\'b5\'bd\'ce\'a8\'d2\'bb\'b5\'c4\'c8\'ab\'be\'d6\'b1\'e4\'c1\'bf$\'c9\'cf\'a3\'acunderscore\'d3\'eb\'c6\'e4\'c0\'e0\'cb\'c6\'a3\'ac\'bb\'e1\'b0\'d1\'d7\'d4\'c9\'ed\'b0\'f3\'b6\'a8\'b5\'bd\'ce\'a8\'d2\'bb\'b5\'c4\'c8\'ab\'be\'d6\'b1\'e4\'c1\'bf_\'c9\'cf\'a3\'ac\'d5\'e2\'d2\'b2\'ca\'c7\'ce\'aa\'c9\'b6\'cb\'fc\'b5\'c4\'c3\'fb\'d7\'d6\'bd\'d0underscore\'b5\'c4\'d4\'ad\'d2\'f2\'a1\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>418</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;underscore则提供了一套完善的函数式编程的接口，让我们更方便地在JavaScript中实现函数式编程。&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>0</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 underscore\'d4\'f2\'cc\'e1\'b9\'a9\'c1\'cb\'d2\'bb\'cc\'d7\'cd\'ea\'c9\'c6\'b5\'c4\'ba\'af\'ca\'fd\'ca\'bd\'b1\'e0\'b3\'cc\'b5\'c4\'bd\'d3\'bf\'da\'a3\'ac\'c8\'c3\'ce\'d2\'c3\'c7\'b8\'fc\'b7\'bd\'b1\'e3\'b5\'d8\'d4\'daJavaScript\'d6\'d0\'ca\'b5\'cf\'d6\'ba\'af\'ca\'fd\'ca\'bd\'b1\'e0\'b3\'cc\'a1\'a3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, -1711}</string>
+						<key>nodeID</key>
+						<string>5DEF2DD1-CC62-413E-83B9-B6A67BDAC7CF</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{401, -2141}</string>
+								<key>nodeID</key>
+								<string>EEA47C9A-19A2-4777-B278-1463933EA859</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{559, -2161}</string>
+										<key>nodeID</key>
+										<string>E8F138CC-C12F-429F-ADFC-1D6D8DB07587</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{910, -2181}</string>
+												<key>nodeID</key>
+												<string>3475BEC3-16D0-4D34-B0AF-3D2433E130F3</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>318</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 所有元素都大于0？&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.every([1, 4, 7, -3, -9], (x) =&amp;gt; x &amp;gt; 0); // false&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 至少一个元素大于0？&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.some([1, 4, 7, -3, -9], (x) =&amp;gt; x &amp;gt; 0); // true&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+// \'cb\'f9\'d3\'d0\'d4\'aa\'cb\'d8\'b6\'bc\'b4\'f3\'d3\'da0\'a3\'bf\
+_.every([1, 4, 7, -3, -9], (x) =&gt; x &gt; 0); // false\
+// \'d6\'c1\'c9\'d9\'d2\'bb\'b8\'f6\'d4\'aa\'cb\'d8\'b4\'f3\'d3\'da0\'a3\'bf\
+_.some([1, 4, 7, -3, -9], (x) =&gt; x &gt; 0); // true}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;当集合的所有元素都满足条件时，_.every()函数返回true，当集合的至少一个元素满足条件时，_.some()函数返回true：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b5\'b1\'bc\'af\'ba\'cf\'b5\'c4\'cb\'f9\'d3\'d0\'d4\'aa\'cb\'d8\'b6\'bc\'c2\'fa\'d7\'e3\'cc\'f5\'bc\'fe\'ca\'b1\'a3\'ac_.every()\'ba\'af\'ca\'fd\'b7\'b5\'bb\'d8true\'a3\'ac\'b5\'b1\'bc\'af\'ba\'cf\'b5\'c4\'d6\'c1\'c9\'d9\'d2\'bb\'b8\'f6\'d4\'aa\'cb\'d8\'c2\'fa\'d7\'e3\'cc\'f5\'bc\'fe\'ca\'b1\'a3\'ac_.some()\'ba\'af\'ca\'fd\'b7\'b5\'bb\'d8true\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;every / some&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 every / some}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{401, -1947}</string>
+								<key>nodeID</key>
+								<string>43C8929E-F00C-42E8-9770-7F546BD5FB51</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{540, -1975}</string>
+										<key>nodeID</key>
+										<string>CEF23CD7-E53F-4117-BC2A-F7FDB16B656B</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{892, -2065}</string>
+												<key>nodeID</key>
+												<string>08F67E50-44D0-43B3-B8E2-0D70A8DD48DD</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>413</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var arr = [3, 5, 7, 9];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.max(arr); // 9&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.min(arr); // 3&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 空集合会返回-Infinity和Infinity，所以要先判断集合不为空：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.max([])&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;-Infinity&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.min([])&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Infinity&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+var arr = [3, 5, 7, 9];\
+_.max(arr); // 9\
+_.min(arr); // 3\
+\
+// \'bf\'d5\'bc\'af\'ba\'cf\'bb\'e1\'b7\'b5\'bb\'d8-Infinity\'ba\'cdInfinity\'a3\'ac\'cb\'f9\'d2\'d4\'d2\'aa\'cf\'c8\'c5\'d0\'b6\'cf\'bc\'af\'ba\'cf\'b2\'bb\'ce\'aa\'bf\'d5\'a3\'ba\
+_.max([])\
+-Infinity\
+_.min([])\
+Infinity}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;这两个函数直接返回集合中最大和最小的数：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d5\'e2\'c1\'bd\'b8\'f6\'ba\'af\'ca\'fd\'d6\'b1\'bd\'d3\'b7\'b5\'bb\'d8\'bc\'af\'ba\'cf\'d6\'d0\'d7\'ee\'b4\'f3\'ba\'cd\'d7\'ee\'d0\'a1\'b5\'c4\'ca\'fd\'a3\'ba}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{540, -1849}</string>
+										<key>nodeID</key>
+										<string>E2341BC3-6C82-48D5-B950-63733C856F01</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{893, -1849}</string>
+												<key>nodeID</key>
+												<string>3D3B2542-8D46-4172-8F40-449DD05D2D7E</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.max({ a: 1, b: 2, c: 3 }); // 3&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+_.max(\{ a: 1, b: 2, c: 3 \}); // 3}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;注意，如果集合是Object，max()和min()只作用于value，忽略掉key：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d7\'a2\'d2\'e2\'a3\'ac\'c8\'e7\'b9\'fb\'bc\'af\'ba\'cf\'ca\'c7Object\'a3\'acmax()\'ba\'cdmin()\'d6\'bb\'d7\'f7\'d3\'c3\'d3\'davalue\'a3\'ac\'ba\'f6\'c2\'d4\'b5\'f4key\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;max / min&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 max / min}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{401, -1623}</string>
+								<key>nodeID</key>
+								<string>9CB35B56-3BEB-4D1F-9A26-A110FF5F5E03</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{528, -1633}</string>
+										<key>nodeID</key>
+										<string>0D993451-D7E3-415A-A4AB-D4AEFDC3B9C3</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{890, -1793}</string>
+												<key>nodeID</key>
+												<string>93226DA5-FB7C-466F-AC54-4B55FF6B21C8</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>393</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var scores = [20, 81, 75, 40, 91, 59, 77, 66, 72, 88, 99];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var groups = _.groupBy(scores, function (x) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    if (x &amp;lt; 60) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        return &amp;apos;C&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    } else if (x &amp;lt; 80) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        return &amp;apos;B&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    } else {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        return &amp;apos;A&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    }&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;});&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 结果:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;//   A: [81, 91, 88, 99],&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;//   B: [75, 77, 66, 72],&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;//   C: [20, 40, 59]&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// }&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var scores = [20, 81, 75, 40, 91, 59, 77, 66, 72, 88, 99];\
+var groups = _.groupBy(scores, function (x) \{\
+    if (x &lt; 60) \{\
+        return 'C';\
+    \} else if (x &lt; 80) \{\
+        return 'B';\
+    \} else \{\
+        return 'A';\
+    \}\
+\});\
+// \'bd\'e1\'b9\'fb:\
+// \{\
+//   A: [81, 91, 88, 99],\
+//   B: [75, 77, 66, 72],\
+//   C: [20, 40, 59]\
+// \}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;groupBy()把集合的元素按照key归类，key由传入的函数返回：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 groupBy()\'b0\'d1\'bc\'af\'ba\'cf\'b5\'c4\'d4\'aa\'cb\'d8\'b0\'b4\'d5\'d5key\'b9\'e9\'c0\'e0\'a3\'ackey\'d3\'c9\'b4\'ab\'c8\'eb\'b5\'c4\'ba\'af\'ca\'fd\'b7\'b5\'bb\'d8\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;groupBy&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 groupBy}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{401, -1397}</string>
+								<key>nodeID</key>
+								<string>98CA3F6D-7F0A-46D8-BF88-8D7E4A0680A2</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{579, -1397}</string>
+										<key>nodeID</key>
+										<string>8E5D84A3-2324-4EB7-A17F-35E2A5E81393</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{900, -1417}</string>
+												<key>nodeID</key>
+												<string>5F0F4E5B-1DFC-44F9-BA1D-919C7341D288</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 注意每次结果都不一样：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.shuffle([1, 2, 3, 4, 5, 6]); // [3, 5, 4, 6, 2, 1]&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+// \'d7\'a2\'d2\'e2\'c3\'bf\'b4\'ce\'bd\'e1\'b9\'fb\'b6\'bc\'b2\'bb\'d2\'bb\'d1\'f9\'a3\'ba\
+_.shuffle([1, 2, 3, 4, 5, 6]); // [3, 5, 4, 6, 2, 1]}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;shuffle()用洗牌算法随机打乱一个集合：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 shuffle()\'d3\'c3\'cf\'b4\'c5\'c6\'cb\'e3\'b7\'a8\'cb\'e6\'bb\'fa\'b4\'f2\'c2\'d2\'d2\'bb\'b8\'f6\'bc\'af\'ba\'cf\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;shuffle / sample&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 shuffle / sample}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{401, -1291}</string>
+								<key>nodeID</key>
+								<string>AAD42EC7-56CE-4CA4-829A-411564EB5823</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -1341}</string>
+										<key>nodeID</key>
+										<string>542560D2-D3EF-46F8-BAD3-7047AD9D8018</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>275</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 注意每次结果都不一样：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 随机选1个：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.sample([1, 2, 3, 4, 5, 6]); // 2&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 随机选3个：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.sample([1, 2, 3, 4, 5, 6], 3); // [6, 1, 4]&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+// \'d7\'a2\'d2\'e2\'c3\'bf\'b4\'ce\'bd\'e1\'b9\'fb\'b6\'bc\'b2\'bb\'d2\'bb\'d1\'f9\'a3\'ba\
+// \'cb\'e6\'bb\'fa\'d1\'a11\'b8\'f6\'a3\'ba\
+_.sample([1, 2, 3, 4, 5, 6]); // 2\
+// \'cb\'e6\'bb\'fa\'d1\'a13\'b8\'f6\'a3\'ba\
+_.sample([1, 2, 3, 4, 5, 6], 3); // [6, 1, 4]}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;sample()则是随机选择一个或多个元素：&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 sample()\'d4\'f2\'ca\'c7\'cb\'e6\'bb\'fa\'d1\'a1\'d4\'f1\'d2\'bb\'b8\'f6\'bb\'f2\'b6\'e0\'b8\'f6\'d4\'aa\'cb\'d8\'a3\'ba}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Collections&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Collections}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, -787}</string>
+						<key>nodeID</key>
+						<string>6D882458-9225-4572-B8B5-3793B489DFF5</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{370, -797}</string>
+								<key>nodeID</key>
+								<string>A5C73CD4-7AD3-4EB6-9B05-E2EACCE62DF2</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -1175}</string>
+										<key>nodeID</key>
+										<string>484E7D78-1A3E-420F-845F-691F3249F903</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{863, -1185}</string>
+												<key>nodeID</key>
+												<string>FA11EED9-5A6E-4D61-93BA-4A046231B2E3</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1215, -1205}</string>
+														<key>nodeID</key>
+														<string>775632E7-DD5D-4092-B0F4-81286120398B</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var arr = [2, 4, 6, 8];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.first(arr); // 2&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.last(arr); // 8&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+var arr = [2, 4, 6, 8];\
+_.first(arr); // 2\
+_.last(arr); // 8}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;顾名思义，这两个函数分别取第一个和最后一个元素：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b9\'cb\'c3\'fb\'cb\'bc\'d2\'e5\'a3\'ac\'d5\'e2\'c1\'bd\'b8\'f6\'ba\'af\'ca\'fd\'b7\'d6\'b1\'f0\'c8\'a1\'b5\'da\'d2\'bb\'b8\'f6\'ba\'cd\'d7\'ee\'ba\'f3\'d2\'bb\'b8\'f6\'d4\'aa\'cb\'d8\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;first / last&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 first / last}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -1089}</string>
+										<key>nodeID</key>
+										<string>36AEB349-0C58-4778-9D08-D9AFDDA04597</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{839, -1109}</string>
+												<key>nodeID</key>
+												<string>A6E1F274-7A6F-4C84-A717-E6BB249871AE</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1199, -1109}</string>
+														<key>nodeID</key>
+														<string>80F2E541-7206-4AC3-9FFB-FC4C8B69E804</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>327</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.flatten([1, [2], [3, [[4], [5]]]]); // [1, 2, 3, 4, 5]&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>0</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+_.flatten([1, [2], [3, [[4], [5]]]]); // [1, 2, 3, 4, 5]}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;flatten()接收一个Array，无论这个Array里面嵌套了多少个Array，flatten()最后都把它们变成一个一维数组：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 flatten()\'bd\'d3\'ca\'d5\'d2\'bb\'b8\'f6Array\'a3\'ac\'ce\'de\'c2\'db\'d5\'e2\'b8\'f6Array\'c0\'ef\'c3\'e6\'c7\'b6\'cc\'d7\'c1\'cb\'b6\'e0\'c9\'d9\'b8\'f6Array\'a3\'acflatten()\'d7\'ee\'ba\'f3\'b6\'bc\'b0\'d1\'cb\'fc\'c3\'c7\'b1\'e4\'b3\'c9\'d2\'bb\'b8\'f6\'d2\'bb\'ce\'ac\'ca\'fd\'d7\'e9\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;flatten&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 flatten}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -935}</string>
+										<key>nodeID</key>
+										<string>09943F37-A8EC-4429-B62D-7AFA64B277F4</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{867, -1003}</string>
+												<key>nodeID</key>
+												<string>63AB6971-AF25-4FEA-A6AC-F0AE851C7BDE</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1345, -1033}</string>
+														<key>nodeID</key>
+														<string>BC1D017D-5160-415D-8547-980A1279E8DE</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>309</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var names = [&amp;apos;Adam&amp;apos;, &amp;apos;Lisa&amp;apos;, &amp;apos;Bart&amp;apos;];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var scores = [85, 92, 59];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.zip(names, scores);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// [[&amp;apos;Adam&amp;apos;, 85], [&amp;apos;Lisa&amp;apos;, 92], [&amp;apos;Bart&amp;apos;, 59]]&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>0</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var names = ['Adam', 'Lisa', 'Bart'];\
+var scores = [85, 92, 59];\
+_.zip(names, scores);\
+// [['Adam', 85], ['Lisa', 92], ['Bart', 59]]}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>416</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;zip()把两个或多个数组的所有元素按索引对齐，然后按索引合并成新数组。例如，你有一个Array保存了名字，另一个Array保存了分数，现在，要把名字和分数给对上，用zip()轻松实现：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 zip()\'b0\'d1\'c1\'bd\'b8\'f6\'bb\'f2\'b6\'e0\'b8\'f6\'ca\'fd\'d7\'e9\'b5\'c4\'cb\'f9\'d3\'d0\'d4\'aa\'cb\'d8\'b0\'b4\'cb\'f7\'d2\'fd\'b6\'d4\'c6\'eb\'a3\'ac\'c8\'bb\'ba\'f3\'b0\'b4\'cb\'f7\'d2\'fd\'ba\'cf\'b2\'a2\'b3\'c9\'d0\'c2\'ca\'fd\'d7\'e9\'a1\'a3\'c0\'fd\'c8\'e7\'a3\'ac\'c4\'e3\'d3\'d0\'d2\'bb\'b8\'f6Array\'b1\'a3\'b4\'e6\'c1\'cb\'c3\'fb\'d7\'d6\'a3\'ac\'c1\'ed\'d2\'bb\'b8\'f6Array\'b1\'a3\'b4\'e6\'c1\'cb\'b7\'d6\'ca\'fd\'a3\'ac\'cf\'d6\'d4\'da\'a3\'ac\'d2\'aa\'b0\'d1\'c3\'fb\'d7\'d6\'ba\'cd\'b7\'d6\'ca\'fd\'b8\'f8\'b6\'d4\'c9\'cf\'a3\'ac\'d3\'c3zip()\'c7\'e1\'cb\'c9\'ca\'b5\'cf\'d6\'a3\'ba}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{867, -867}</string>
+												<key>nodeID</key>
+												<string>D1CA2CE2-7A09-4711-B2A2-51BDC684E0EE</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1067, -897}</string>
+														<key>nodeID</key>
+														<string>2E653EE7-A87D-4C1F-8260-92A7D2899681</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>422</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var namesAndScores = [[&amp;apos;Adam&amp;apos;, 85], [&amp;apos;Lisa&amp;apos;, 92], [&amp;apos;Bart&amp;apos;, 59]];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.unzip(namesAndScores);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// [[&amp;apos;Adam&amp;apos;, &amp;apos;Lisa&amp;apos;, &amp;apos;Bart&amp;apos;], [85, 92, 59]]&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>0</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+var namesAndScores = [['Adam', 85], ['Lisa', 92], ['Bart', 59]];\
+_.unzip(namesAndScores);\
+// [['Adam', 'Lisa', 'Bart'], [85, 92, 59]]}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;unzip()则是反过来：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 unzip()\'d4\'f2\'ca\'c7\'b7\'b4\'b9\'fd\'c0\'b4\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;zip / unzip&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 zip / unzip}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -723}</string>
+										<key>nodeID</key>
+										<string>32B7B964-EEA6-4270-90AA-48A69E438F0A</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{838, -743}</string>
+												<key>nodeID</key>
+												<string>4C558A9E-2219-4556-9E0D-40CD8FD4E551</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1199, -801}</string>
+														<key>nodeID</key>
+														<string>5A1E12A2-F4A3-43E1-8223-D62E384262DC</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var names = [&amp;apos;Adam&amp;apos;, &amp;apos;Lisa&amp;apos;, &amp;apos;Bart&amp;apos;];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var scores = [85, 92, 59];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.object(names, scores);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// {Adam: 85, Lisa: 92, Bart: 59}&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var names = ['Adam', 'Lisa', 'Bart'];\
+var scores = [85, 92, 59];\
+_.object(names, scores);\
+// \{Adam: 85, Lisa: 92, Bart: 59\}}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1199, -665}</string>
+														<key>nodeID</key>
+														<string>53813FF2-DA39-4DBB-85C1-B52E03CD63AD</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;注意_.object()是一个函数，不是JavaScript的Object对象。&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d7\'a2\'d2\'e2_.object()\'ca\'c7\'d2\'bb\'b8\'f6\'ba\'af\'ca\'fd\'a3\'ac\'b2\'bb\'ca\'c7JavaScript\'b5\'c4Object\'b6\'d4\'cf\'f3\'a1\'a3}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;有时候你会想，与其用zip()，为啥不把名字和分数直接对应成Object呢？别急，object()函数就是干这个的：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d3\'d0\'ca\'b1\'ba\'f2\'c4\'e3\'bb\'e1\'cf\'eb\'a3\'ac\'d3\'eb\'c6\'e4\'d3\'c3zip()\'a3\'ac\'ce\'aa\'c9\'b6\'b2\'bb\'b0\'d1\'c3\'fb\'d7\'d6\'ba\'cd\'b7\'d6\'ca\'fd\'d6\'b1\'bd\'d3\'b6\'d4\'d3\'a6\'b3\'c9Object\'c4\'d8\'a3\'bf\'b1\'f0\'bc\'b1\'a3\'acobject()\'ba\'af\'ca\'fd\'be\'cd\'ca\'c7\'b8\'c9\'d5\'e2\'b8\'f6\'b5\'c4\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;object&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 object}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{725, -489}</string>
+										<key>nodeID</key>
+										<string>EBFC80E2-121B-4066-93AF-AA080076374A</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{837, -499}</string>
+												<key>nodeID</key>
+												<string>AA216DB1-777D-4D16-A412-BEA021A36FBB</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1198, -609}</string>
+														<key>nodeID</key>
+														<string>9E8A7704-9B8C-45E3-AEAF-0060E23F9830</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>416</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 从0开始小于10:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.range(10); // [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 从1开始小于11：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.range(1, 11); // [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 从0开始小于30，步长5:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.range(0, 30, 5); // [0, 5, 10, 15, 20, 25]&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 从0开始大于-10，步长-1:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.range(0, -10, -1); // [0, -1, -2, -3, -4, -5, -6, -7, -8, -9]&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>0</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+// \'b4\'d30\'bf\'aa\'ca\'bc\'d0\'a1\'d3\'da10:\
+_.range(10); // [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]\
+\
+// \'b4\'d31\'bf\'aa\'ca\'bc\'d0\'a1\'d3\'da11\'a3\'ba\
+_.range(1, 11); // [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\
+\
+// \'b4\'d30\'bf\'aa\'ca\'bc\'d0\'a1\'d3\'da30\'a3\'ac\'b2\'bd\'b3\'a45:\
+_.range(0, 30, 5); // [0, 5, 10, 15, 20, 25]\
+\
+// \'b4\'d30\'bf\'aa\'ca\'bc\'b4\'f3\'d3\'da-10\'a3\'ac\'b2\'bd\'b3\'a4-1:\
+_.range(0, -10, -1); // [0, -1, -2, -3, -4, -5, -6, -7, -8, -9]}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;range()让你快速生成一个序列，不再需要用for循环实现了：&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 range()\'c8\'c3\'c4\'e3\'bf\'ec\'cb\'d9\'c9\'fa\'b3\'c9\'d2\'bb\'b8\'f6\'d0\'f2\'c1\'d0\'a3\'ac\'b2\'bb\'d4\'d9\'d0\'e8\'d2\'aa\'d3\'c3for\'d1\'ad\'bb\'b7\'ca\'b5\'cf\'d6\'c1\'cb\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;range&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 range}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>293</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;underscore为Array提供了许多工具类方法，可以更方便快捷地操作Array。&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 underscore\'ce\'aaArray\'cc\'e1\'b9\'a9\'c1\'cb\'d0\'ed\'b6\'e0\'b9\'a4\'be\'df\'c0\'e0\'b7\'bd\'b7\'a8\'a3\'ac\'bf\'c9\'d2\'d4\'b8\'fc\'b7\'bd\'b1\'e3\'bf\'ec\'bd\'dd\'b5\'d8\'b2\'d9\'d7\'f7Array\'a1\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Arrays&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Arrays}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, 441}</string>
+						<key>nodeID</key>
+						<string>85728C22-1DF4-4779-ACF4-8908E840834C</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, -333}</string>
+								<key>nodeID</key>
+								<string>912B2643-441F-41FB-9A1A-8325BDC3C487</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>400</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;因为underscore本来就是为了充分发挥JavaScript的函数式编程特性，所以也提供了大量JavaScript本身没有的高阶函数。&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d2\'f2\'ce\'aaunderscore\'b1\'be\'c0\'b4\'be\'cd\'ca\'c7\'ce\'aa\'c1\'cb\'b3\'e4\'b7\'d6\'b7\'a2\'bb\'d3JavaScript\'b5\'c4\'ba\'af\'ca\'fd\'ca\'bd\'b1\'e0\'b3\'cc\'cc\'d8\'d0\'d4\'a3\'ac\'cb\'f9\'d2\'d4\'d2\'b2\'cc\'e1\'b9\'a9\'c1\'cb\'b4\'f3\'c1\'bfJavaScript\'b1\'be\'c9\'ed\'c3\'bb\'d3\'d0\'b5\'c4\'b8\'df\'bd\'d7\'ba\'af\'ca\'fd\'a1\'a3}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, -257}</string>
+								<key>nodeID</key>
+								<string>5517E62E-1217-4BE3-BE70-14A2224733C2</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{520, -277}</string>
+										<key>nodeID</key>
+										<string>A735F217-8D8E-4A63-9579-58B0DFA9DCC3</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;bind()可以帮我们把console对象直接绑定在log()的this指针上，以后调用log()就可以直接正常调用了&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 bind()\'bf\'c9\'d2\'d4\'b0\'ef\'ce\'d2\'c3\'c7\'b0\'d1console\'b6\'d4\'cf\'f3\'d6\'b1\'bd\'d3\'b0\'f3\'b6\'a8\'d4\'dalog()\'b5\'c4this\'d6\'b8\'d5\'eb\'c9\'cf\'a3\'ac\'d2\'d4\'ba\'f3\'b5\'f7\'d3\'c3log()\'be\'cd\'bf\'c9\'d2\'d4\'d6\'b1\'bd\'d3\'d5\'fd\'b3\'a3\'b5\'f7\'d3\'c3\'c1\'cb}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;bind（）&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 bind\'a3\'a8\'a3\'a9}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, -83}</string>
+								<key>nodeID</key>
+								<string>FDBFEF04-FA69-4ADA-BF76-AD199AF092B3</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{505, -171}</string>
+										<key>nodeID</key>
+										<string>58CE6B75-B18E-491E-8214-E9CB12266732</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{857, -181}</string>
+												<key>nodeID</key>
+												<string>8FC9D94B-778A-45EF-97C9-825C42AC125C</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1212, -201}</string>
+														<key>nodeID</key>
+														<string>540A5004-41A3-4E8F-AD29-D048F80AE60A</string>
+														<key>strokeColor</key>
+														<string>{0.200, 0.200, 0.200, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var pow2N = _.partial(Math.pow, 2);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;pow2N(3); // 8&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;pow2N(5); // 32&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;pow2N(10); // 1024&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red83\green83\blue83;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+'use strict';\
+\
+var pow2N = _.partial(Math.pow, 2);\
+pow2N(3); // 8\
+pow2N(5); // 32\
+pow2N(10); // 1024}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;创建一个新的函数能直接这样写&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;pow2N(y)&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;就好了，这个新函数&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;pow2N(y)&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;就是根据&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;Math.pow(x, y)&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;创建出来的偏函数，它固定住了原函数的第一个参数（始终为&lt;/span&gt;&lt;span style='color: rgba(83, 83, 83, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;2&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;）：&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fmodern\fcharset0 Courier;\f2\fnil\fcharset0 HelveticaNeue;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red83\green83\blue83;\red210\green0\blue68;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+\'b4\'b4\'bd\'a8\'d2\'bb\'b8\'f6\'d0\'c2\'b5\'c4\'ba\'af\'ca\'fd\'c4\'dc\'d6\'b1\'bd\'d3\'d5\'e2\'d1\'f9\'d0\'b4
+\f1\fs24 pow2N(y)
+\f0\fs28 \'be\'cd\'ba\'c3\'c1\'cb\'a3\'ac\'d5\'e2\'b8\'f6\'d0\'c2\'ba\'af\'ca\'fd
+\f1\fs24 pow2N(y)
+\f0\fs28 \'be\'cd\'ca\'c7\'b8\'f9\'be\'dd
+\f1\fs24 Math.pow(x, y)
+\f0\fs28 \'b4\'b4\'bd\'a8\'b3\'f6\'c0\'b4\'b5\'c4\'c6\'ab\'ba\'af\'ca\'fd\'a3\'ac\'cb\'fc\'b9\'cc\'b6\'a8\'d7\'a1\'c1\'cb\'d4\'ad\'ba\'af\'ca\'fd\'b5\'c4\'b5\'da\'d2\'bb\'b8\'f6\'b2\'ce\'ca\'fd\'a3\'a8\'ca\'bc\'d6\'d5\'ce\'aa
+\f2 2
+\f0 \'a3\'a9\'a3\'ba}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;partial()就是为一个函数创建偏函数：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;我们经常计算2y，每次都写Math.pow(2, y)就比较麻烦。&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 partial()\'be\'cd\'ca\'c7\'ce\'aa\'d2\'bb\'b8\'f6\'ba\'af\'ca\'fd\'b4\'b4\'bd\'a8\'c6\'ab\'ba\'af\'ca\'fd\'a3\'ba\
+\'ce\'d2\'c3\'c7\'be\'ad\'b3\'a3\'bc\'c6\'cb\'e32y\'a3\'ac\'c3\'bf\'b4\'ce\'b6\'bc\'d0\'b4Math.pow(2, y)\'be\'cd\'b1\'c8\'bd\'cf\'c2\'e9\'b7\'b3\'a1\'a3}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{505, -15}</string>
+										<key>nodeID</key>
+										<string>B2BBC03F-6F00-45C2-8274-330DD43F8AA6</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{809, -65}</string>
+												<key>nodeID</key>
+												<string>7B86B930-C0B6-4262-8CF0-090C28B9CCB4</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var cube = _.partial(Math.pow, _, 3);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;cube(3); // 27&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;cube(5); // 125&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;cube(10); // 1000&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var cube = _.partial(Math.pow, _, 3);\
+cube(3); // 27\
+cube(5); // 125\
+cube(10); // 1000}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;希望创建一个偏函数cube(x)，计算x3&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'cf\'a3\'cd\'fb\'b4\'b4\'bd\'a8\'d2\'bb\'b8\'f6\'c6\'ab\'ba\'af\'ca\'fdcube(x)\'a3\'ac\'bc\'c6\'cb\'e3x3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;partial&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 partial}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, 469}</string>
+								<key>nodeID</key>
+								<string>83D8C6AF-1775-4A51-B38E-9BEFD45D03BD</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{523, 449}</string>
+										<key>nodeID</key>
+										<string>01399C3C-5048-42B9-B05D-0FE0869D4B7A</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{875, 71}</string>
+												<key>nodeID</key>
+												<string>9EB540F7-F267-4B2E-B737-5636CC6EFF5B</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>311</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;function factorial(n) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    console.log(&amp;apos;start calculate &amp;apos; + n + &amp;apos;!...&amp;apos;);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    var s = 1, i = n;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    while (i &amp;gt; 1) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        s = s * i;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        i --;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    }&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    console.log(n + &amp;apos;! = &amp;apos; + s);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    return s;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;}&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;factorial(10); // 3628800&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 注意控制台输出:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// start calculate 10!...&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 10! = 3628800&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+function factorial(n) \{\
+    console.log('start calculate ' + n + '!...');\
+    var s = 1, i = n;\
+    while (i &gt; 1) \{\
+        s = s * i;\
+        i --;\
+    \}\
+    console.log(n + '! = ' + s);\
+    return s;\
+\}\
+\
+factorial(10); // 3628800\
+// \'d7\'a2\'d2\'e2\'bf\'d8\'d6\'c6\'cc\'a8\'ca\'e4\'b3\'f6:\
+// start calculate 10!...\
+// 10! = 3628800}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{875, 427}</string>
+												<key>nodeID</key>
+												<string>BA46A108-C12A-41D7-884E-21D9447EF5BB</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>315</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;用memoize()就可以自动缓存函数计算的结果：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var factorial = _.memoize(function(n) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    console.log(&amp;apos;start calculate &amp;apos; + n + &amp;apos;!...&amp;apos;);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    var s = 1, i = n;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    while (i &amp;gt; 1) {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        s = s * i;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;        i --;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    }&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    console.log(n + &amp;apos;! = &amp;apos; + s);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    return s;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;});&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 第一次调用:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;factorial(10); // 3628800&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 注意控制台输出:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// start calculate 10!...&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 10! = 3628800&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 第二次调用:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;factorial(10); // 3628800&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 控制台没有输出&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d3\'c3memoize()\'be\'cd\'bf\'c9\'d2\'d4\'d7\'d4\'b6\'af\'bb\'ba\'b4\'e6\'ba\'af\'ca\'fd\'bc\'c6\'cb\'e3\'b5\'c4\'bd\'e1\'b9\'fb\'a3\'ba\
+'use strict';\
+\
+var factorial = _.memoize(function(n) \{\
+    console.log('start calculate ' + n + '!...');\
+    var s = 1, i = n;\
+    while (i &gt; 1) \{\
+        s = s * i;\
+        i --;\
+    \}\
+    console.log(n + '! = ' + s);\
+    return s;\
+\});\
+\
+// \'b5\'da\'d2\'bb\'b4\'ce\'b5\'f7\'d3\'c3:\
+factorial(10); // 3628800\
+// \'d7\'a2\'d2\'e2\'bf\'d8\'d6\'c6\'cc\'a8\'ca\'e4\'b3\'f6:\
+// start calculate 10!...\
+// 10! = 3628800\
+\
+// \'b5\'da\'b6\'fe\'b4\'ce\'b5\'f7\'d3\'c3:\
+factorial(10); // 3628800\
+// \'bf\'d8\'d6\'c6\'cc\'a8\'c3\'bb\'d3\'d0\'ca\'e4\'b3\'f6}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;如果一个函数调用开销很大，我们就可能希望能把结果缓存下来，以便后续调用时直接获得结果。举个例子，计算阶乘就比较耗时：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'c8\'e7\'b9\'fb\'d2\'bb\'b8\'f6\'ba\'af\'ca\'fd\'b5\'f7\'d3\'c3\'bf\'aa\'cf\'fa\'ba\'dc\'b4\'f3\'a3\'ac\'ce\'d2\'c3\'c7\'be\'cd\'bf\'c9\'c4\'dc\'cf\'a3\'cd\'fb\'c4\'dc\'b0\'d1\'bd\'e1\'b9\'fb\'bb\'ba\'b4\'e6\'cf\'c2\'c0\'b4\'a3\'ac\'d2\'d4\'b1\'e3\'ba\'f3\'d0\'f8\'b5\'f7\'d3\'c3\'ca\'b1\'d6\'b1\'bd\'d3\'bb\'f1\'b5\'c3\'bd\'e1\'b9\'fb\'a1\'a3\'be\'d9\'b8\'f6\'c0\'fd\'d7\'d3\'a3\'ac\'bc\'c6\'cb\'e3\'bd\'d7\'b3\'cb\'be\'cd\'b1\'c8\'bd\'cf\'ba\'c4\'ca\'b1\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;memoize&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 memoize}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, 943}</string>
+								<key>nodeID</key>
+								<string>DF938414-2407-4CB0-AB35-6DC45AC917A3</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{504, 903}</string>
+										<key>nodeID</key>
+										<string>8CC505C3-506F-4ADC-AAFA-734BC607FD59</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;顾名思义，&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;once()&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;保证某个函数执行且仅执行一次。如果你有一个方法叫&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;register()&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，用户在页面上点两个按钮的任何一个都可以执行的话，就可以用&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;once()&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;保证函数仅调用一次，无论用户点击多少次：&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red83\green83\blue83;\red210\green0\blue68;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+\'b9\'cb\'c3\'fb\'cb\'bc\'d2\'e5\'a3\'ac
+\f1\fs24 once()
+\f0\fs28 \'b1\'a3\'d6\'a4\'c4\'b3\'b8\'f6\'ba\'af\'ca\'fd\'d6\'b4\'d0\'d0\'c7\'d2\'bd\'f6\'d6\'b4\'d0\'d0\'d2\'bb\'b4\'ce\'a1\'a3\'c8\'e7\'b9\'fb\'c4\'e3\'d3\'d0\'d2\'bb\'b8\'f6\'b7\'bd\'b7\'a8\'bd\'d0
+\f1\fs24 register()
+\f0\fs28 \'a3\'ac\'d3\'c3\'bb\'a7\'d4\'da\'d2\'b3\'c3\'e6\'c9\'cf\'b5\'e3\'c1\'bd\'b8\'f6\'b0\'b4\'c5\'a5\'b5\'c4\'c8\'ce\'ba\'ce\'d2\'bb\'b8\'f6\'b6\'bc\'bf\'c9\'d2\'d4\'d6\'b4\'d0\'d0\'b5\'c4\'bb\'b0\'a3\'ac\'be\'cd\'bf\'c9\'d2\'d4\'d3\'c3
+\f1\fs24 once()
+\f0\fs28 \'b1\'a3\'d6\'a4\'ba\'af\'ca\'fd\'bd\'f6\'b5\'f7\'d3\'c3\'d2\'bb\'b4\'ce\'a3\'ac\'ce\'de\'c2\'db\'d3\'c3\'bb\'a7\'b5\'e3\'bb\'f7\'b6\'e0\'c9\'d9\'b4\'ce\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;once&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 once}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{392, 1117}</string>
+								<key>nodeID</key>
+								<string>5024CEE9-CCDF-43CC-9C26-CE04BFDB27A1</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{504, 1107}</string>
+										<key>nodeID</key>
+										<string>9D4D9D8F-B632-447C-AD54-D9A227AE4244</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{855, 1019}</string>
+												<key>nodeID</key>
+												<string>B45F72B0-659C-4D3E-AE40-65AE3434ED9A</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 2秒后调用alert():&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.delay(alert, 2000);&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+// 2\'c3\'eb\'ba\'f3\'b5\'f7\'d3\'c3alert():\
+_.delay(alert, 2000);}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{855, 1115}</string>
+												<key>nodeID</key>
+												<string>4596D172-1378-44FE-AF21-DDB262086F4D</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>337</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;如果要延迟调用的函数有参数，把参数也传进去：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var log = _.bind(console.log, console);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.delay(log, 2000, &amp;apos;Hello,&amp;apos;, &amp;apos;world!&amp;apos;);&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 2秒后打印&amp;apos;Hello, world!&amp;apos;:&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'c8\'e7\'b9\'fb\'d2\'aa\'d1\'d3\'b3\'d9\'b5\'f7\'d3\'c3\'b5\'c4\'ba\'af\'ca\'fd\'d3\'d0\'b2\'ce\'ca\'fd\'a3\'ac\'b0\'d1\'b2\'ce\'ca\'fd\'d2\'b2\'b4\'ab\'bd\'f8\'c8\'a5\'a3\'ba\
+'use strict';\
+\
+var log = _.bind(console.log, console);\
+_.delay(log, 2000, 'Hello,', 'world!');\
+// 2\'c3\'eb\'ba\'f3\'b4\'f2\'d3\'a1'Hello, world!':}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;delay()可以让一个函数延迟执行，效果和setTimeout()是一样的，但是代码明显简单了&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 delay()\'bf\'c9\'d2\'d4\'c8\'c3\'d2\'bb\'b8\'f6\'ba\'af\'ca\'fd\'d1\'d3\'b3\'d9\'d6\'b4\'d0\'d0\'a3\'ac\'d0\'a7\'b9\'fb\'ba\'cdsetTimeout()\'ca\'c7\'d2\'bb\'d1\'f9\'b5\'c4\'a3\'ac\'b5\'ab\'ca\'c7\'b4\'fa\'c2\'eb\'c3\'f7\'cf\'d4\'bc\'f2\'b5\'a5\'c1\'cb}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;delay&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 delay}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Functions&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Functions}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, 1753}</string>
+						<key>nodeID</key>
+						<string>C32A57DE-3936-49D1-9767-2CCB28FF71A2</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 1251}</string>
+								<key>nodeID</key>
+								<string>D93F81C0-3888-434B-B58B-713D1ADD22C5</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;和Array类似，underscore也提供了大量针对Object的函数。&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'ba\'cdArray\'c0\'e0\'cb\'c6\'a3\'acunderscore\'d2\'b2\'cc\'e1\'b9\'a9\'c1\'cb\'b4\'f3\'c1\'bf\'d5\'eb\'b6\'d4Object\'b5\'c4\'ba\'af\'ca\'fd\'a1\'a3}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 1365}</string>
+								<key>nodeID</key>
+								<string>2B7EFFE8-88F8-4B80-854D-161C49F871B5</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{543, 1355}</string>
+										<key>nodeID</key>
+										<string>21444F73-FB5F-4785-93AE-B921DDD71500</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{894, 1307}</string>
+												<key>nodeID</key>
+												<string>13805BF6-03F3-473D-815D-607DDE9318A5</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>241</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;function Student(name, age) {&lt;/p&gt;&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    this.name = name;&lt;/p&gt;&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    this.age = age;&lt;/p&gt;&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;}&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(210, 0, 68, 1.000000); font: 12px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var xiaoming = new Student(&amp;apos;小明&amp;apos;, 20);&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red210\green0\blue68;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+'use strict';\
+\
+function Student(name, age) \{\
+    this.name = name;\
+    this.age = age;\
+\}\
+\
+var xiaoming = new Student('\'d0\'a1\'c3\'f7', 20);}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Courier"; -cocoa-font-postscriptname: "Courier"; '&gt;keys()&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;可以非常方便地返回一个&lt;/span&gt;&lt;span style='color: rgba(83, 83, 83, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;object&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;自身所有的&lt;/span&gt;&lt;span style='color: rgba(83, 83, 83, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;key&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;，但不包含从原型链继承下来的：&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fnil\fcharset0 HelveticaNeue;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red210\green0\blue68;\red83\green83\blue83;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+keys()
+\f1\fs28 \'bf\'c9\'d2\'d4\'b7\'c7\'b3\'a3\'b7\'bd\'b1\'e3\'b5\'d8\'b7\'b5\'bb\'d8\'d2\'bb\'b8\'f6
+\f2 object
+\f1 \'d7\'d4\'c9\'ed\'cb\'f9\'d3\'d0\'b5\'c4
+\f2 key
+\f1 \'a3\'ac\'b5\'ab\'b2\'bb\'b0\'fc\'ba\'ac\'b4\'d3\'d4\'ad\'d0\'cd\'c1\'b4\'bc\'cc\'b3\'d0\'cf\'c2\'c0\'b4\'b5\'c4\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;keys / allKeys&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 keys / allKeys}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 1529}</string>
+								<key>nodeID</key>
+								<string>0D544FB6-5667-4ACE-9C47-BA26C4C89913</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{492, 1519}</string>
+										<key>nodeID</key>
+										<string>04788316-11FC-4EC9-8222-B551A34F5E03</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{847, 1459}</string>
+												<key>nodeID</key>
+												<string>0EAF65D0-808B-4B43-AD5D-69AA5D10FB7A</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>191</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var obj = {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    name: &amp;apos;小明&amp;apos;,&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    age: 20&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;};&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.values(obj); // [&amp;apos;小明&amp;apos;, 20]&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var obj = \{\
+    name: '\'d0\'a1\'c3\'f7',\
+    age: 20\
+\};\
+\
+_.values(obj); // ['\'d0\'a1\'c3\'f7', 20]}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;和keys()类似，values()返回object自身但不包含原型链继承的所有值：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'ba\'cdkeys()\'c0\'e0\'cb\'c6\'a3\'acvalues()\'b7\'b5\'bb\'d8object\'d7\'d4\'c9\'ed\'b5\'ab\'b2\'bb\'b0\'fc\'ba\'ac\'d4\'ad\'d0\'cd\'c1\'b4\'bc\'cc\'b3\'d0\'b5\'c4\'cb\'f9\'d3\'d0\'d6\'b5\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;values&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 values}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 1675}</string>
+								<key>nodeID</key>
+								<string>68C8B2D2-8CFF-4B4C-B395-699D00789CB7</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{523, 1675}</string>
+										<key>nodeID</key>
+										<string>445C9311-3CE2-4BD1-9F7B-CAF43A024966</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{856, 1635}</string>
+												<key>nodeID</key>
+												<string>3D23C6EA-A9DF-4992-BA2C-207F28A5B0B9</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>420</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var obj = { a: 1, b: 2, c: 3 };&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 注意传入的函数签名，value在前，key在后:&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.mapObject(obj, (v, k) =&amp;gt; 100 + v); // { a: 101, b: 102, c: 103 }&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var obj = \{ a: 1, b: 2, c: 3 \};\
+// \'d7\'a2\'d2\'e2\'b4\'ab\'c8\'eb\'b5\'c4\'ba\'af\'ca\'fd\'c7\'a9\'c3\'fb\'a3\'acvalue\'d4\'da\'c7\'b0\'a3\'ackey\'d4\'da\'ba\'f3:\
+_.mapObject(obj, (v, k) =&gt; 100 + v); // \{ a: 101, b: 102, c: 103 \}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;mapObject()就是针对object的map版本：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 mapObject()\'be\'cd\'ca\'c7\'d5\'eb\'b6\'d4object\'b5\'c4map\'b0\'e6\'b1\'be\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;mapObject&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 mapObject}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 1821}</string>
+								<key>nodeID</key>
+								<string>6793A8B3-5A27-4EC5-9545-F1935BE1AB2A</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{491, 1811}</string>
+										<key>nodeID</key>
+										<string>35FEE6D0-E73A-41B9-8F92-BCCCAFCB0334</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{839, 1751}</string>
+												<key>nodeID</key>
+												<string>543CC0EC-DF78-42AE-8FDC-A82604F5360C</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>380</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var obj = {&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    Adam: 90,&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    Lisa: 85,&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;    Bart: 59&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;};&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.invert(obj); // { &amp;apos;59&amp;apos;: &amp;apos;Bart&amp;apos;, &amp;apos;85&amp;apos;: &amp;apos;Lisa&amp;apos;, &amp;apos;90&amp;apos;: &amp;apos;Adam&amp;apos; }&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var obj = \{\
+    Adam: 90,\
+    Lisa: 85,\
+    Bart: 59\
+\};\
+_.invert(obj); // \{ '59': 'Bart', '85': 'Lisa', '90': 'Adam' \}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;invert()把object的每个key-value来个交换，key变成value，value变成key：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 invert()\'b0\'d1object\'b5\'c4\'c3\'bf\'b8\'f6key-value\'c0\'b4\'b8\'f6\'bd\'bb\'bb\'bb\'a3\'ackey\'b1\'e4\'b3\'c9value\'a3\'acvalue\'b1\'e4\'b3\'c9key\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;invert&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 invert}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 2025}</string>
+								<key>nodeID</key>
+								<string>F2AB53D6-2F41-4F90-8CCB-E741B43ED7A4</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{584, 1987}</string>
+										<key>nodeID</key>
+										<string>6DBA7CD9-6707-4D58-8F78-4D07B602C208</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{940, 1927}</string>
+												<key>nodeID</key>
+												<string>C2EBFA23-F8B2-459A-990A-53E5BC5893DC</string>
+												<key>strokeColor</key>
+												<string>{0.200, 0.200, 0.200, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;&amp;apos;use strict&amp;apos;;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;var a = {name: &amp;apos;Bob&amp;apos;, age: 20};&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.extend(a, {age: 15}, {age: 88, city: &amp;apos;Beijing&amp;apos;}); // {name: &amp;apos;Bob&amp;apos;, age: 88, city: &amp;apos;Beijing&amp;apos;}&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// 变量a的内容也改变了：&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;a; // {name: &amp;apos;Bob&amp;apos;, age: 88, city: &amp;apos;Beijing&amp;apos;}&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 'use strict';\
+\
+var a = \{name: 'Bob', age: 20\};\
+_.extend(a, \{age: 15\}, \{age: 88, city: 'Beijing'\}); // \{name: 'Bob', age: 88, city: 'Beijing'\}\
+// \'b1\'e4\'c1\'bfa\'b5\'c4\'c4\'da\'c8\'dd\'d2\'b2\'b8\'c4\'b1\'e4\'c1\'cb\'a3\'ba\
+a; // \{name: 'Bob', age: 88, city: 'Beijing'\}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;extend()把多个object的key-value合并到第一个object并返回：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 extend()\'b0\'d1\'b6\'e0\'b8\'f6object\'b5\'c4key-value\'ba\'cf\'b2\'a2\'b5\'bd\'b5\'da\'d2\'bb\'b8\'f6object\'b2\'a2\'b7\'b5\'bb\'d8\'a3\'ba}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{584, 2103}</string>
+										<key>nodeID</key>
+										<string>B765DF2F-D5FE-4B12-92ED-A0B0BD875E27</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;注意：如果有相同的key，后面的object的value将覆盖前面的object的value。&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'d7\'a2\'d2\'e2\'a3\'ba\'c8\'e7\'b9\'fb\'d3\'d0\'cf\'e0\'cd\'ac\'b5\'c4key\'a3\'ac\'ba\'f3\'c3\'e6\'b5\'c4object\'b5\'c4value\'bd\'ab\'b8\'b2\'b8\'c7\'c7\'b0\'c3\'e6\'b5\'c4object\'b5\'c4value\'a1\'a3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;extend / extendOwn&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 extend / extendOwn}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 2179}</string>
+								<key>nodeID</key>
+								<string>CE8458E6-C05B-4107-B442-3694B89A5C82</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{491, 2159}</string>
+										<key>nodeID</key>
+										<string>B8ED1F6B-407B-45F6-8242-8CE4BDD71C00</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;如果我们要复制一个object对象，就可以用clone()方法，它会把原有对象的所有属性都复制到新的对象中：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'c8\'e7\'b9\'fb\'ce\'d2\'c3\'c7\'d2\'aa\'b8\'b4\'d6\'c6\'d2\'bb\'b8\'f6object\'b6\'d4\'cf\'f3\'a3\'ac\'be\'cd\'bf\'c9\'d2\'d4\'d3\'c3clone()\'b7\'bd\'b7\'a8\'a3\'ac\'cb\'fc\'bb\'e1\'b0\'d1\'d4\'ad\'d3\'d0\'b6\'d4\'cf\'f3\'b5\'c4\'cb\'f9\'d3\'d0\'ca\'f4\'d0\'d4\'b6\'bc\'b8\'b4\'d6\'c6\'b5\'bd\'d0\'c2\'b5\'c4\'b6\'d4\'cf\'f3\'d6\'d0\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;clone&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 clone}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{379, 2245}</string>
+								<key>nodeID</key>
+								<string>0E33B379-F7C4-49C2-872F-DB182514A889</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{498, 2235}</string>
+										<key>nodeID</key>
+										<string>924E6BB9-0A3C-46DB-8B9B-5BB5865336BA</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;isEqual()对两个object进行深度比较，如果内容完全相同，则返回true：&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 isEqual()\'b6\'d4\'c1\'bd\'b8\'f6object\'bd\'f8\'d0\'d0\'c9\'ee\'b6\'c8\'b1\'c8\'bd\'cf\'a3\'ac\'c8\'e7\'b9\'fb\'c4\'da\'c8\'dd\'cd\'ea\'c8\'ab\'cf\'e0\'cd\'ac\'a3\'ac\'d4\'f2\'b7\'b5\'bb\'d8true\'a3\'ba}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;isEqual&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 isEqual}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Objects&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Objects}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{256, 2331}</string>
+						<key>nodeID</key>
+						<string>A19DFB3C-B01C-4267-91FA-FBD1A0B182A1</string>
+						<key>strokeColor</key>
+						<string>{0.200, 0.200, 0.200, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{385, 2321}</string>
+								<key>nodeID</key>
+								<string>1C85DF6E-9F81-4F1F-896A-F7C284CF4490</string>
+								<key>strokeColor</key>
+								<string>{0.200, 0.200, 0.200, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{740, 2291}</string>
+										<key>nodeID</key>
+										<string>5650F93F-AA55-4171-A12E-19F7CEEFAF08</string>
+										<key>strokeColor</key>
+										<string>{0.200, 0.200, 0.200, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>176</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;_.chain([1, 4, 9, 16, 25])&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt; .map(Math.sqrt)&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt; .filter(x =&amp;gt; x % 2 === 1)&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt; .value();&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;// [1, 3, 5]&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 _.chain([1, 4, 9, 16, 25])\
+ .map(Math.sqrt)\
+ .filter(x =&gt; x % 2 === 1)\
+ .value();\
+// [1, 3, 5]}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;underscore提供了把对象包装成能进行链式调用的方法，就是chain()函数：&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 underscore\'cc\'e1\'b9\'a9\'c1\'cb\'b0\'d1\'b6\'d4\'cf\'f3\'b0\'fc\'d7\'b0\'b3\'c9\'c4\'dc\'bd\'f8\'d0\'d0\'c1\'b4\'ca\'bd\'b5\'f7\'d3\'c3\'b5\'c4\'b7\'bd\'b7\'a8\'a3\'ac\'be\'cd\'ca\'c7chain()\'ba\'af\'ca\'fd\'a3\'ba}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Chaining&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Chaining}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "PingFang SC"; text-align: left; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;JavaScript-07underscore&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf420
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 JavaScript-07underscore}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKfkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26GkoSbnISX
+	lwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpJcAhpKEmZkUTlNWZXJ0aWNh
+	bGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5OU0JvdHRv
+	bU1hcmdpboaSqYaG
+	</data>
+	<key>title</key>
+	<string>JavaScript-07underscore</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>

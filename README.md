@@ -10,3 +10,9 @@
 
 #### 百度前端面试题
 [点击进入「FEX-interview」文件夹查看具体内容](./FEX-interview/)
+
+#### JavaScript思维导图
+[点击进入「JavaScript-MindNode」文件夹查看具体内容](./JavaScript-MindNode/)
+
+#### 慕课网编程练习
+[点击进入「iMooc」文件夹查看具体内容](./iMooc/)

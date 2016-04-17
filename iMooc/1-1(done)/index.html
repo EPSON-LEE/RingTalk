@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> new document </title>  
+  <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'"/>   
+  <script type="text/javascript">
+  function openWindow(){
+    var open=confirm("确定新窗口打开网站？");
+    if(open==true){
+    var url=prompt("确认打开的网址","http://ringcrl.com");
+    if(url!=null){
+    window.open(url,"_blank","width=400px,height=500px,toolbar=no,menubar=no");
+    }else{
+    alert("再见");
+    }
+    }else{
+    alert("再见");
+    }
+    }
+  </script> 
+ </head> 
+ <body> 
+      <input type="button" value="新窗口打开网站" onclick="openWindow()" /> 
+ </body>
+</html>
