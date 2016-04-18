@@ -1,0 +1,40 @@
+<!DOCTYPE  HTML>
+<html >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>系好安全带,准备启航</title>
+
+<script type="text/javascript">
+
+  //通过javascript的日期对象来得到当前的日期，并输出。
+  var d = new Date();
+  document.write("初始值:" + d + "<br/>");
+  document.write("年月日:" + d.getFullYear() + "年" + (d.getMonth()+1) + "月" + d.getDate() + "日" + "<br/>");
+  var w = ["星期天","星期一","星期二","星期三","星期四","星期五","星期六","星期天"];
+  var wn = d.getDay();
+  document.write("星期:" + w[wn] + "<br/>");
+  
+  //成绩是一长窜的字符串不好处理，找规律后分割放到数组里更好操作哦
+  var scoreStr = "小明:87;小花:81;小红:97;小天:76;小张:74;小小:94;小西:90;小伍:76;小迪:64;小曼:76";
+  var scoreArr = scoreStr.split(";");
+  document.write("split后的数组:" + scoreArr + "<br/>");
+
+  //从数组中将成绩撮出来，然后求和取整，并输出。
+  var sum = 0;
+  for (var i = 0; i < scoreArr.length; i ++) {
+    //scoreArr[i].indexOf(":")+1,确定数字所在字符串中的位置,得到一个数字
+    //substr(),用于得到字符串中某一位置之后的内容
+    sum += parseInt(scoreArr[i].substr(scoreArr[i].indexOf(":")+1));
+   }
+  document.write("所有分数之和:" + sum + "<br/>");
+
+  //该班级平均分
+  document.write("保留到整数的平均分:" + Math.round(sum/scoreArr.length));
+
+  //
+  //
+</script>
+</head>
+<body>
+</body>
+</html>
