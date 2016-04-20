@@ -127,3 +127,13 @@ JS部分
     // 事件处理
     box.addEventListener("contextmenu", showMenu, false);
     document.addEventListener("click", hideMenu, false);
+
+4-20
+---
+应用H5的audio标签，制作音乐播放器
+
+要求：  
+按钮，进度条，音量控制，都是用JS自定义的，而不是audio标签自带的。  
+音乐请自行在网上找一个在线的。
+
+今天这个题目不会做...
