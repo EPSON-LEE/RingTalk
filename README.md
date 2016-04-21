@@ -17,8 +17,8 @@
 #### 慕课网编程练习
 [点击进入「iMooc」文件夹查看具体内容](./iMooc/)
 
-#### 先行者每日作业
-[点击进入「Forerunner」文件夹查看具体内容](./Forerunner/)
+#### JS能力测评经典题
+[点击进入「JavaScript-Classics」文件夹查看具体内容](./JavaScript-Classics/)
 
 #### 前端技能挑战
 [点击进入「FE-Skill」文件夹查看具体内容](./FE-Skill/)
