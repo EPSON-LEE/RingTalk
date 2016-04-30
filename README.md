@@ -8,9 +8,6 @@
 #### 大前端工具集
 [点击进入「FE-Tool」文件夹查看具体内容](./FE-Tool/)
 
-#### 百度前端面试题
-[点击进入「FEX-interview」文件夹查看具体内容](./FEX-interview/)
-
 #### JavaScript思维导图
 [点击进入「JavaScript-MindNode」文件夹查看具体内容](./JavaScript-MindNode/)
 
@@ -22,3 +19,6 @@
 
 #### 前端技能挑战
 [点击进入「FE-Skill」文件夹查看具体内容](./FE-Skill/)
+
+#### HTML模板
+[点击进入「HTML-Model」文件夹查看具体内容](./HTML-Model/)
